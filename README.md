@@ -1,7 +1,7 @@
 # dash-avocado
  Using Dash to visualise avocado data
 
-![png](dashboard.png)
+![png](assets/dashboard.png)
 
 ## Instructions
 
