@@ -6,7 +6,7 @@ body {
 
 .header {
     background-color: #222222;
-    height: 288px;
+    height: 200px;
     padding: 16px 0 0 0;
 }
 
@@ -45,7 +45,7 @@ body {
     box-shadow: 0 4px 6px 0 rgba(0, 0, 0, 0.18);
 }
 
-.menu {
+/* .menu {
     height: 112px;
     width: 912px;
     display: flex;
@@ -73,4 +73,4 @@ body {
     margin-bottom: 6px;
     font-weight: bold;
     color: #079A82;
-}
+} */
